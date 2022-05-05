@@ -1,0 +1,44 @@
+/* Zerando CSS */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font: 20px Arial, sans-serif;
+}
+
+body {
+    background-color: #00D75B;
+}
+
+.navbar {
+    background-color: aliceblue;
+}
+
+.quem-somos {
+    background-color: aliceblue;
+    text-align: center;
+    color: black;
+}
+
+.margin {
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.parceiros {
+    background-color: aliceblue;
+    color: black;
+}
+
+.trofeus {
+    background-color: aliceblue;
+    color: black;
+}
+
+.bg-footer {
+    background-color: black;
+    color: #00D75B;
+    font: 20px Arial;
+}
